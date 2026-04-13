@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">🌸Hi there, I'm Sasvi</h1>
-<h3 align="center">Welcome to my little coding space 💻💖 I’m a CE student who loves learning new technologies, solving problems, and growing every day in the tech world 🐬</h3>
+<h3 align="center">Welcome to my little coding space 💻💖 I’m a CE student in University of Peradeniya who loves learning new technologies, solving problems, and growing every day in the tech world 🐬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasvi123&label=Profile%20views&color=0e75b6&style=flat" alt="sasvi123" /> </p>
 
