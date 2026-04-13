@@ -36,7 +36,31 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 # 🖥️ Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![C](https://img.shields.io/badge/c-%23FF69B4.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23FF85C1.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23FF4FA3.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23FF6FAE.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23FF8FC5.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%23FF99CC.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%23FF66B2.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23FF77C8.svg?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23FF5FA2.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23FF4D88.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF3366.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23FF99DD.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFCCE5.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23FF85B8.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23FF5C9C.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23FF4B91.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23FF66CC.svg?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-%23FF99B8.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sasvi123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sasvi123&theme=dark&hide_border=false)<br/>
