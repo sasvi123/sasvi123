@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" style="color: #F7CDE6">🌸Hi there, I'm Sasvi</h1>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/🌸Hi_there,_I'm_Sasvi-F7CDE6?style=for-the-badge&logoColor=white" />
+</h1>
+
 <h3 align="center">Welcome to my little coding space 💻💖 I’m a CE student in University of Peradeniya who loves learning new technologies, solving problems, and growing every day in the tech world 🐬</h3>
 
 
