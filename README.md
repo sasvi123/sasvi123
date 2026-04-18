@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 - 📝 I occasionally write articles on [https://medium.com/@gsasvi](https://medium.com/@gsasvi)
 
-- ⚡ Fun fact **I literary just checked fun facts about me 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
