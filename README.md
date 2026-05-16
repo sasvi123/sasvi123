@@ -61,11 +61,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23FF66CC.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%23FF99B8.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sasvi123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sasvi123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sasvi123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=sasvi123&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=ffb86c&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sasvi123&theme=dark&hide=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideLabels=ffb86c)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sasvi123&bg_color=0d1117&title_color=ff79c6&text_color=ffb86c&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🦩 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
