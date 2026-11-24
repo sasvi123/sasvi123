@@ -4,7 +4,7 @@
 <h3 align="center">Welcome to my little coding space 💻💖 I’m a CE student in University of Peradeniya who loves learning new technologies, solving problems, and growing every day in the tech world 🐬</h3>
 
 <p align="center">
-  <img src="./canva.gif" alt="cass GIF" width="600" />
+  <img src="./canva.gif" alt="cass GIF" width="100%" />
 </p>
 
 
